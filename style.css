@@ -1,0 +1,24 @@
+.navbar-brand{
+    font-weight: bold;
+    font-size: 100px;
+}
+#animate{
+    margin-top: 20px;
+      background-color: #554588;
+      color: rgb(255, 192, 133);
+      text-align: center;
+      margin-right:15%;
+      margin-left: 15%;
+      border-radius: 18px;
+      border: 2px solid #7d6abb;
+      min-height: 45px;
+      padding: 50px;
+      overflow: hidden;
+  }
+  h2{
+       font-size: 12px;
+    padding-top: 5px;
+    font-family: 'Anonymous Pro', monospace;  
+    text-shadow: 3px 3px 3px #ababab;
+    letter-spacing: .05em;
+  }
